@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

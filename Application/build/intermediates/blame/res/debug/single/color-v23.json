@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v23/abc_tint_default.xml"
+    }
+]

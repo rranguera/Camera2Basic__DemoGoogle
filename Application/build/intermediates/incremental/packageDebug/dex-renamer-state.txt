@@ -1,0 +1,4 @@
+#Wed Jan 31 18:36:36 CET 2018
+base.0=/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

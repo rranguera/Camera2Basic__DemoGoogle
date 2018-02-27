@@ -1,0 +1,4 @@
+#Mon Feb 05 20:54:26 CET 2018
+base.0=/home/users/inf/wiam2/iam47623980/AndroidStudioProjects/Camera2Basic__DemoGoogle/Application/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
